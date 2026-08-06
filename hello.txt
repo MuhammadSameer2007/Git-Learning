@@ -1,7 +1,3 @@
 Hello Git!
 My first repository.
-Today I learned Git.
-ok
-Changed something
-ok
-k
+Sorry
